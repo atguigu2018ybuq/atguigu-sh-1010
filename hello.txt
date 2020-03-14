@@ -3,7 +3,9 @@ Hello Git!I am very happy!
 Hello Git!I am very happy! @@@@@@@@@@@@
 Hello Git!I am very happy!
 Hello Git!I am very happy! ############
-Hello Git!I am very happy! &&&&&&&&&&&&
-Hello Git!I am very happy!
+Hello Git!I am very happy! [new content]&&&&&&&&&&&&
+Hello Git!I am very happy! [new content]
+Hello Git!I am very happy! [new content]
+Hello Git!I am very happy! [new content]************
 Hello Git!I am very happy!
 Hello Git!I am very happy!
